@@ -1,0 +1,9 @@
+{
+  "name": "Kimono Theme",
+  "version": "0.0.1",
+  "authors": [
+    "Dyona"
+  ],
+  "description": "A dark theme with flagrant colours",
+  "repository": "https://github.com/DyonaCode/zed-theme"
+}
